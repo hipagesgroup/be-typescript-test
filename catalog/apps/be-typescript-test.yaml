@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: System
+kind: Component
 metadata:
   name: be-typescript-test
   title: BE TypeScript Test
@@ -9,7 +9,6 @@ metadata:
   annotations:
     github.com/project-slug: hipagesgroup/be-typescript-test
     github.com/team-slug: architecture-council
-    backstage.io/techdocs-ref: dir:../
   tags:
     - repo
     - typescript
@@ -20,6 +19,7 @@ metadata:
       title: Repository
       icon: github
 spec:
+  type: template
+  lifecycle: experimental
   domain: shared-services
   owner: architecture-council
-  lifecycle: experimental
