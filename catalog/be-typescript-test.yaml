@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: be-typescript-test
+  title: BE TypeScript Test
+  description: >-
+    Interview/hiring test project — a NestJS boilerplate that backend
+    engineering candidates are asked to extend as part of the hiring process.
+  annotations:
+    github.com/project-slug: hipagesgroup/be-typescript-test
+    github.com/team-slug: architecture-council
+    backstage.io/techdocs-ref: dir:../
+  tags:
+    - repo
+    - typescript
+    - nestjs
+    - template
+  links:
+    - url: https://github.com/hipagesgroup/be-typescript-test
+      title: Repository
+      icon: github
+spec:
+  domain: shared-services
+  owner: architecture-council
+  lifecycle: experimental
