@@ -1,5 +1,5 @@
-[![Link to be-typescript-test in hipages Developer Portal, Component: be-typescript-test](https://backyard.k8s.hipages.com.au/api/badges/entity/default/component/be-typescript-test/badge/pingback "Link to be-typescript-test in hipages Developer Portal")](https://backyard.k8s.hipages.com.au/catalog/default/component/be-typescript-test)
-[![Entity owner badge, owner: architecture-council](https://backyard.k8s.hipages.com.au/api/badges/entity/default/component/be-typescript-test/badge/owner "Entity owner badge")](https://backyard.k8s.hipages.com.au/catalog/default/component/be-typescript-test)
+[![Link to be-typescript-test in hipages Developer Portal, Component: be-typescript-test](https://backyard.prod.hipages.com.au/api/badges/entity/default/component/be-typescript-test/badge/pingback "Link to be-typescript-test in hipages Developer Portal")](https://backyard.prod.hipages.com.au/catalog/default/component/be-typescript-test)
+[![Entity owner badge, owner: architecture-council](https://backyard.prod.hipages.com.au/api/badges/entity/default/component/be-typescript-test/badge/owner "Entity owner badge")](https://backyard.prod.hipages.com.au/catalog/default/component/be-typescript-test)
 
 # Problem
 
